@@ -17,7 +17,7 @@
   },
   {
     "id": "meta-mm",
-    "name": "Meta Magic Mount",
+    "name": "Magic Mount",
     "description": "An implementation of a metamodule using Magic Mount",
     "author": "7a72",
     "repoUrl": "https://github.com/KernelSU-Modules-Repo/meta-mm",
@@ -25,7 +25,7 @@
   },
   {
     "id": "magic_mount_rs",
-    "name": "Meta Magic Mount RS",
+    "name": "MagicMount-RS",
     "description": "An implementation of a metamodule using Magic Mount (Rust)",
     "author": "7a72, Tools-cx-app, YuzakiKokuban",
     "repoUrl": "https://github.com/Tools-cx-app/meta-magic_mount-rs",
@@ -34,7 +34,7 @@
   },
   {
     "id": "meta-overlayfs",
-    "name": "Meta OverlayFS",
+    "name": "OverlayFS",
     "description": "An implementation of a metamodule using OverlayFS",
     "author": "KernelSU Developers",
     "repoUrl": "https://github.com/KernelSU-Modules-Repo/meta-overlayfs",

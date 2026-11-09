@@ -1,6 +1,6 @@
-# KernelSU Next — Modules Repository
+# WhiteSU Modules Repository
 
-This repository collects module manifests used by KernelSU Next Manager.
+This repository collects module manifests used by WhiteSU Manager.
 
 Overview
 - Curated module lists and metadata.

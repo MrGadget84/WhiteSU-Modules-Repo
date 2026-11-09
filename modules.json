@@ -37,7 +37,7 @@
     "visibility": 1
   },
   {
-    "name": "✨ COPG Spoof ✨",
+    "name": "COPG Spoof",
     "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
     "author": "Alireza Parsi",
     "repoUrl": "https://github.com/AlirezaParsi/COPG",
@@ -60,7 +60,7 @@
 
   },
   {
-    "name": "SUSFS-FOR-KERNELSU",
+    "name": "SUSFS4KSU",
     "description": "An addon root hiding service for KernelSU compiled with patched kernel source",
     "author": "sidex15 & simonpunk",
     "repoUrl": "https://github.com/sidex15/susfs4ksu-module",
@@ -68,7 +68,7 @@
     "bannerUrl": "https://raw.githubusercontent.com/sidex15/susfs4ksu-module/v1.5.2%2B/banner.png"
   },
   {
-    "name": "BRENE - SUSFS-FOR-KERNELSU",
+    "name": "BRENE SuSFS",
     "description": "A SuSFS/KernelSU module for SuSFS patched kernels",
     "author": "rrr333nnn333, KOWX712, sidex15 & simonpunk",
     "repoUrl": "https://github.com/rrr333nnn333/BRENE",
@@ -119,8 +119,8 @@
     "bannerUrl": "https://encore.rem01gaming.dev/ogp/default.webp"
   },
   {
-    "name": "Re-Malwack | Not just a normal ad-blocker module ✨",
-    "description": "A fully-fledged ad-block module. Contains all your needs ✨",
+    "name": "Re-Malwack",
+    "description": "A fully-fledged ad-block module. Contains all your needs",
     "author": "ZG089",
     "repoUrl": "https://github.com/ZG089/Re-Malwack/",
     "license": "GPL-3.0",
@@ -156,7 +156,7 @@
     "license": "AGPL-3.0"
   },
   {
-    "name": "Frida Server for KernelSU",
+    "name": "Frida-RS",
     "description": "Runs the official Frida Server under a Rust supervisor, with a Material 3 WebUI",
     "author": "MiChongs",
     "repoUrl": "https://github.com/MiChongs/Frida-RS",
@@ -175,5 +175,33 @@
     "author": "MrGadget84",
     "repoUrl": "https://github.com/MrGadget84/Zygisk-Ultra/",
     "license": "AGPL-3.0"
+  },
+  {
+    "name": "Duck ToolBox",
+    "description": "Android attestation toolbox with a Tricky Store, TEESimulator and OhMyKeymint manager, RKP workbench and Qualcomm device ID provisioning in one WebUI.",
+    "author": "Eltavine, KOWX712, MhmRdd",
+    "repoUrl": "https://github.com/eltavine/Duck-ToolBox",
+    "license": "MIT"
+  },
+  {
+    "name": "ZNNext",
+    "description": "A from-scratch, standalone implementation of the Zygisk Next module",
+    "author": "baaad",
+    "repoUrl": "https://github.com/VeryBaaad/ZNNext",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "Enable Blurs",
+    "description": "This module enables support for window-level blurs on a wide range of devices.",
+    "author": "HeyItsJono",
+    "repoUrl": "https://github.com/HeyItsJono/enable-blurs",
+    "license": "AGPL-3.0"
+  },
+  {
+    "name": "Magisk NetBird",
+    "description": "Minimal Magisk module wrapper for the NetBird CLI daemon.",
+    "author": "ahsaboy",
+    "repoUrl": "https://github.com/ahsaboy/magisk-netbird",
+    "license": "Unknown"
   }
 ]
