@@ -68,7 +68,7 @@
     "bannerUrl": "https://raw.githubusercontent.com/sidex15/susfs4ksu-module/v1.5.2%2B/banner.png"
   },
   {
-    "name": "BRENE SuSFS",
+    "name": "BRENE SUSFS",
     "description": "A SuSFS/KernelSU module for SuSFS patched kernels",
     "author": "rrr333nnn333, KOWX712, sidex15 & simonpunk",
     "repoUrl": "https://github.com/rrr333nnn333/BRENE",
@@ -210,5 +210,26 @@
     "author": "Rexamm1t",
     "repoUrl": "https://github.com/Rexamm1t/NextRAM",
     "license": "GPL-3.0"
+  },
+  {
+    "name": "Frida KSU",
+    "description": "frida-ksu — Frida server as a KernelSU module",
+    "author": "ReverserID",
+    "repoUrl": "https://github.com/ReverserID/KSU_Frida",
+    "license": "Unknown"
+  },
+  {
+    "name": "NetProxy",
+    "description": "Sing-box transparent proxy module at the Android system level",
+    "author": "Fanju6",
+    "repoUrl": "https://github.com/Fanju6/NetProxy-Magisk",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "MagicNet",
+    "description": "A transparent networking control plane for rooted Android.",
+    "author": "LIghtJUNction",
+    "repoUrl": "https://github.com/LIghtJUNction/MagicNet",
+    "license": "MIT"
   }
 ]
