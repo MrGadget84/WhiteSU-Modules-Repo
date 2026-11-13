@@ -203,5 +203,12 @@
     "author": "ahsaboy",
     "repoUrl": "https://github.com/ahsaboy/magisk-netbird",
     "license": "Unknown"
+  },
+  {
+    "name": "NextRAM",
+    "description": "The module provides enhanced zram and swap file capabilities along with fine-tuned memory parameters for performance optimization.",
+    "author": "Rexamm1t",
+    "repoUrl": "https://github.com/Rexamm1t/NextRAM",
+    "license": "GPL-3.0"
   }
 ]
